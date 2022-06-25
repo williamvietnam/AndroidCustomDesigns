@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidProjects/AndroidJavaProjects/my-material-design/app/src/main/res/drawable/background_edittext.xml" value="0.206" />
         <entry key="..\:/AndroidProjects/AndroidJavaProjects/my-material-design/app/src/main/res/layout/component_edit_text_view.xml" value="0.2421875" />
         <entry key="..\:/AndroidProjects/AndroidJavaProjects/my-material-design/app/src/main/res/layout/component_image_view.xml" value="0.24114583333333334" />
         <entry key="..\:/AndroidProjects/AndroidJavaProjects/my-material-design/app/src/main/res/layout/component_text_view.xml" value="0.1987179487179487" />

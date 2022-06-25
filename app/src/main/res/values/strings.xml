@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MaterialDesign</string>
+    <string name="delete">Xóa</string>
 </resources>
