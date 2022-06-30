@@ -29,6 +29,7 @@
         android:background="@color/background"
         android:paddingHorizontal="@dimen/_6sdp"
         android:text="{title % title}"
+        android:textColor="@color/black"
         android:textSize="@dimen/_14ssp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
