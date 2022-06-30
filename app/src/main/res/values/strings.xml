@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MaterialDesign</string>
     <string name="delete">Xóa</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
 </resources>
