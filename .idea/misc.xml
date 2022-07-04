@@ -17,6 +17,10 @@
         <entry key="..\:/AndroidProjects/AndroidJavaProjects/my-material-design/app/src/main/res/layout/screen_sign_up.xml" value="0.24114583333333334" />
         <entry key="..\:/AndroidProjects/AndroidJavaProjects/my-material-design/app/src/main/res/layout/screen_splash.xml" value="0.24114583333333334" />
         <entry key="..\:/AndroidProjects/AndroidJavaProjects/my-material-design/sample/src/main/res/layout/fragment_personal_info.xml" value="0.2421875" />
+        <entry key="..\:/MyGithub/custom-view-android-libraries/app/src/main/res/layout/component_dialog_confirm.xml" value="0.3546875" />
+        <entry key="..\:/MyGithub/custom-view-android-libraries/app/src/main/res/layout/component_dialog_full_screen.xml" value="0.3546875" />
+        <entry key="..\:/MyGithub/custom-view-android-libraries/app/src/main/res/layout/component_push_notification.xml" value="0.1" />
+        <entry key="..\:/MyGithub/custom-view-android-libraries/app/src/main/res/layout/component_toast_message.xml" value="0.266015625" />
       </map>
     </option>
   </component>

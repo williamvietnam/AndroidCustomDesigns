@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/logoNotification"
+            android:layout_width="@dimen/_16sdp"
+            android:layout_height="@dimen/_16sdp"
+            android:contentDescription="@string/logo_app"
+            android:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/nameNotification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Message" />
+
+        <TextView
+            android:id="@+id/timeNotification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="8:00 PM" />
+
+        <ImageView
+            android:id="@+id/expandNotification"
+            android:layout_width="@dimen/_14sdp"
+            android:layout_height="@dimen/_14sdp"
+            android:contentDescription="@string/expand"
+            android:src="@drawable/ic_expand_more"
+            app:tint="@color/primary" />
+    </LinearLayout>
+
+</RelativeLayout>
