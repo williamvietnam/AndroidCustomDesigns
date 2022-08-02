@@ -111,7 +111,7 @@ public class CircleTextAndImageView extends FrameLayout {
             String textSizeString = attrs.getAttributeValue("http://schemas.android.com/apk/res-auto", "textSize");
             if (textSizeString != null) {
                 String split1 = textSizeString.split("sp")[0];
-                this.textSize = Float.valueOf(split1);
+                this.textSize = Float.parseFloat(split1);
             } else {
                 this.textSize = 15;
             }
