@@ -15,8 +15,7 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
-
-    buildFeatures{
+    buildFeatures {
         viewBinding true
     }
 
@@ -38,6 +37,8 @@ android {
 }
 
 dependencies {
+    // logger
+    implementation "com.jakewharton.timber:timber:5.0.1"
 
     // dimens
     implementation 'com.intuit.sdp:sdp-android:1.0.6'

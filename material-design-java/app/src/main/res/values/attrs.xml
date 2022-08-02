@@ -30,6 +30,22 @@
 
     </declare-styleable>
 
+    <declare-styleable name="shapeInitialsView_attrs">
+        <attr name="shapeInitialsView_avatar" format="reference" />
+        <attr name="shapeInitialsView_backgroundColor" format="color" />
+        <attr name="shapeInitialsView_textColor" format="color" />
+        <attr name="shapeInitialsView_text" format="string" />
+        <attr name="shapeInitialsView_textSize" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="circleInitialsView_attrs">
+        <attr name="circleInitialsView_avatar" format="reference" />
+        <attr name="circleInitialsView_backgroundColor" format="color" />
+        <attr name="circleInitialsView_textColor" format="color" />
+        <attr name="circleInitialsView_text" format="string" />
+        <attr name="circleInitialsView_textSize" format="string" />
+    </declare-styleable>
+
     <declare-styleable name="CustomToolbar">
         <attr name="textToolbar" format="string" />
         <attr name="textToolbarSize" format="integer" />
