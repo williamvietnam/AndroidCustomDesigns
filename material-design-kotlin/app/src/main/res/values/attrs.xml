@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ToolbarCustom">
+        <attr name="startIconDraw" format="reference" />
+        <attr name="toolbarTitle" format="string" />
+        <attr name="toolbarTitleRes" format="reference" />
+        <attr name="endIconDraw" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="TextFieldCustom">
+        <attr name="textHint" format="string" />
+        <attr name="hintRes" format="integer" />
+        <attr name="startIcon" format="reference" />
+        <attr name="text" format="string" />
+        <attr name="textRes" format="integer" />
+        <attr name="imeOption" format="string" />
+        <attr name="inputTypes" format="string" />
+        <attr name="drawableEnd" format="reference" />
+    </declare-styleable>
+</resources>
