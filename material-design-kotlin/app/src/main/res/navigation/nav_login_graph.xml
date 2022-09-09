@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_login_graph"
+    app:startDestination="@id/loginMainFragment">
+
+    <fragment
+        android:id="@+id/loginMainFragment"
+        android:name="com.material.design.ui_design.login.LoginMainFragment"
+        android:label="loginMainFragment"
+        tools:layout="@layout/fragment_login_main">
+
+        <action
+            android:id="@+id/actionToSampleOne"
+            app:destination="@id/loginSampleOneFragment" />
+
+        <action
+            android:id="@+id/actionToSampleTwo"
+            app:destination="@id/loginSampleTwoFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/loginSampleOneFragment"
+        android:name="com.material.design.ui_design.login.samples.LoginSampleOneFragment"
+        android:label="loginSampleOneFragment"
+        tools:layout="@layout/fragment_login_sample_one" />
+
+    <fragment
+        android:id="@+id/loginSampleTwoFragment"
+        android:name="com.material.design.ui_design.login.samples.LoginSampleTwoFragment"
+        android:label="loginSampleTwoFragment"
+        tools:layout="@layout/fragment_login_sample_two" />
+</navigation>

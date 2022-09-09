@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MaterialDesign.iml" filepath="$PROJECT_DIR$/.idea/modules/MaterialDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MaterialDesign.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MaterialDesign.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MaterialDesign.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MaterialDesign.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MaterialDesign.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MaterialDesign.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MaterialDesign.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MaterialDesign.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/MaterialDesign.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/MaterialDesign.sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/MaterialDesign.sample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/MaterialDesign.sample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/MaterialDesign.sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/MaterialDesign.sample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/MaterialDesign.sample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/MaterialDesign.sample.unitTest.iml" />
+    </modules>
+  </component>
+</project>
