@@ -6,8 +6,10 @@ import android.graphics.drawable.Drawable
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.FrameLayout
+import androidx.annotation.DrawableRes
 import com.material.design.R
 import com.material.design.databinding.ComponentToolbarViewBinding
+import com.squareup.picasso.Picasso
 
 class ToolbarCustom : FrameLayout {
 
@@ -80,6 +82,36 @@ class ToolbarCustom : FrameLayout {
         this.binding.endImageView.setOnClickListener {
             toolbarEndCallBack.onToolbarEndClicked()
         }
+    }
+
+    fun setDrawableStartFromInternet(url: String) {
+        Picasso.get()
+            .load(url)
+            .centerCrop()
+            .into(this.binding.startImageView)
+    }
+
+    fun setDrawableEndFromInternet(url: String) {
+        Picasso.get()
+            .load(url)
+            .centerCrop()
+            .into(this.binding.endImageView)
+    }
+
+    fun setDrawableStart(@DrawableRes drawableRes: Int) {
+        this.binding.startImageView.setImageResource(drawableRes)
+    }
+
+    fun setDrawableEnd(@DrawableRes drawableRes: Int) {
+        this.binding.endImageView.setImageResource(drawableRes)
+    }
+
+    fun setDrawableStart(drawable: Drawable) {
+        this.binding.startImageView.setImageDrawable(drawable)
+    }
+
+    fun setDrawableEnd(drawable: Drawable) {
+        this.binding.endImageView.setImageDrawable(drawable)
     }
 
     interface ToolbarStartCallBack {

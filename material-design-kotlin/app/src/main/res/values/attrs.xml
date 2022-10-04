@@ -17,4 +17,18 @@
         <attr name="inputTypes" format="string" />
         <attr name="drawableEnd" format="reference" />
     </declare-styleable>
+
+    <declare-styleable name="BottomNavigationView1">
+        <attr name="tabSize" format="integer" />
+        <attr name="iconTab1" format="integer|reference" />
+        <attr name="iconTab2" format="integer|reference" />
+        <attr name="iconTab3" format="integer|reference" />
+        <attr name="iconTab4" format="integer|reference" />
+        <attr name="iconTab5" format="integer|reference" />
+        <attr name="titleTab1" format="integer|string" />
+        <attr name="titleTab2" format="integer|string" />
+        <attr name="titleTab3" format="integer|string" />
+        <attr name="titleTab4" format="integer|string" />
+        <attr name="titleTab5" format="integer|string" />
+    </declare-styleable>
 </resources>
