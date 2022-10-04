@@ -9,11 +9,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d2e77-d122-4358-927e-659b8aabde16" name="Changes" comment="last update">
+    <list default="true" id="714d2e77-d122-4358-927e-659b8aabde16" name="Changes" comment="kotlin: init toolbar version 2">
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/custom/view/text_fields/TextField2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/material/design/custom/view/TextFieldCustom.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/custom/view/text_fields/TextFieldCustom.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/component_text_field_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/component_text_field_view.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +48,8 @@
         <option value="resourceFile" />
         <option value="navigationResourceFile" />
         <option value="Kotlin Data Class" />
-        <option value="layoutResourceFile" />
         <option value="Kotlin Class" />
+        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
@@ -96,6 +94,7 @@
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/core/view/TextFieldCustom.kt_SELECTED" value="TextFieldCustom" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/navigation/BottomNavigationView1.kt_SELECTED" value="BottomNavigationView1" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/navigation/CustomBottomNavigationView.kt_SELECTED" value="CustomBottomNavigationView" />
+    <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/toolbar/Toolbar2.kt_SELECTED" value="Toolbar2" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/toolbar/ToolbarCustom.kt_SELECTED" value="ToolbarCustom" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/view/TextFieldCustom.kt_SELECTED" value="TextFieldCustom" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/view/TextFieldCustom.kt_TextFieldCustom_DIMENSIONS" value="1080&#10;1920" />
@@ -205,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662627454484</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="kotlin: init toolbar version 2">
+      <created>1664877265631</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664877265631</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,6 +228,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit kotlin" />
     <MESSAGE value="last update" />
-    <option name="LAST_COMMIT_MESSAGE" value="last update" />
+    <MESSAGE value="kotlin: init toolbar version 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="kotlin: init toolbar version 2" />
   </component>
 </project>
