@@ -10,29 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="714d2e77-d122-4358-927e-659b8aabde16" name="Changes" comment="last update">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/base/BaseViewHolder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/custom/navigation/BottomNavigationView1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/custom/navigation/navigation_view_1/NavigationAdapter1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_home.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/bottom_navigation_view_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_1_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_4_2_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_4_2_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_7_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/MaterialDesign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/MaterialDesign.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/MaterialDesign.app.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/MaterialDesign.app.androidTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/MaterialDesign.app.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/MaterialDesign.app.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/MaterialDesign.app.unitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/MaterialDesign.app.unitTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/custom/view/text_fields/TextField2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/material/design/custom/navigation/CustomBottomNavigationView.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/material/design/custom/navigation/CustomNavigationView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/custom/navigation/navigation_view_1/NavigationView1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/material/design/custom/toolbar/ToolbarCustom.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/custom/toolbar/ToolbarCustom.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/material/design/custom/view/TextFieldCustom.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/custom/view/text_fields/TextFieldCustom.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/component_text_field_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/component_text_field_view.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +99,7 @@
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/toolbar/ToolbarCustom.kt_SELECTED" value="ToolbarCustom" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/view/TextFieldCustom.kt_SELECTED" value="TextFieldCustom" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/view/TextFieldCustom.kt_TextFieldCustom_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/view/text_fields/TextFieldCustom.kt_SELECTED" value="TextFieldCustom" />
     <property name="android-custom-viewF:/SETUP/Android/Sdk/sources/android-32/android/view/View.java_SELECTED" value="View" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -129,6 +111,7 @@
       <recent name="F:\MyGithub\android-material-design\material-design-kotlin\app\src\main\res\layout" />
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.material.design.custom.view.text_fields" />
       <recent name="com.material.design.custom.navigation.navigation_view_1" />
       <recent name="com.material.design.ui_desgin_samples.login.samples" />
       <recent name="com.material.design.sample" />

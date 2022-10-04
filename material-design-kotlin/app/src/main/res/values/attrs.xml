@@ -7,6 +7,10 @@
         <attr name="endIconDraw" format="reference" />
     </declare-styleable>
 
+    <declare-styleable name="Toolbar2">
+
+    </declare-styleable>
+
     <declare-styleable name="TextFieldCustom">
         <attr name="textHint" format="string" />
         <attr name="hintRes" format="integer" />
