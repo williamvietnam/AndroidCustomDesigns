@@ -1,4 +1,4 @@
-package com.material.design.custom.view
+package com.material.design.custom.view.text_fields
 
 import android.content.Context
 import android.content.res.TypedArray
