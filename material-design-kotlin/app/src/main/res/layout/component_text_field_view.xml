@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    tools:context=".custom.view.TextFieldCustom">
+    tools:context=".custom.view.text_fields.TextFieldCustom">
 
     <FrameLayout
         android:layout_width="match_parent"
