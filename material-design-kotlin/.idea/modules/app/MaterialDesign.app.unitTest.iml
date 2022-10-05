@@ -206,4 +206,5 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.transition:transition:1.4.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" level="project" />
   </component>
+  <component name="TestModuleProperties" production-module="MaterialDesign.app.main" />
 </module>
