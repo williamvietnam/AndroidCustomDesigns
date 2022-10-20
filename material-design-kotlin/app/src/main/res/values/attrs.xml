@@ -42,4 +42,9 @@
         <attr name="hintPassword" format="string|integer" />
         <attr name="buttonName" format="integer|string" />
     </declare-styleable>
+
+    <declare-styleable name="TagView">
+        <attr name="vertical_spacing" format="dimension" />
+        <attr name="horizontal_spacing" format="dimension" />
+    </declare-styleable>
 </resources>

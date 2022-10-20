@@ -9,8 +9,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d2e77-d122-4358-927e-659b8aabde16" name="Changes" comment="kotlin: init text field version 2">
+    <list default="true" id="714d2e77-d122-4358-927e-659b8aabde16" name="Changes" comment="kotlin: DisableScrollViewpager">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/custom/view/tag/TagView.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/background_tag.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_tag.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +96,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-viewC:/Users/GiangNB2/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.9.0/a272ed8ec68c43f8c049a8e77b4f662cc4290fa2/core-1.9.0-sources.jar!/androidx/core/widget/NestedScrollView.java_SELECTED" value="NestedScrollView" />
     <property name="android-custom-viewC:/Users/GiangNB2/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.6.1/d4d703885d24c61bc0ec39a9a705969e41d773ef/material-1.6.1-sources.jar!/com/google/android/material/textfield/TextInputLayout.java_SELECTED" value="TextInputLayout" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/core/toolbar/ToolbarCustom.kt_SELECTED" value="ToolbarCustom" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/core/view/TextFieldCustom.kt_SELECTED" value="TextFieldCustom" />
@@ -98,14 +104,18 @@
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/navigation/CustomBottomNavigationView.kt_SELECTED" value="CustomBottomNavigationView" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/toolbar/Toolbar2.kt_SELECTED" value="Toolbar2" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/toolbar/ToolbarCustom.kt_SELECTED" value="ToolbarCustom" />
+    <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/view/DisableScrollNestedScrollView.kt_SELECTED" value="DisableScrollNestedScrollView" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/view/TextFieldCustom.kt_SELECTED" value="TextFieldCustom" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/view/TextFieldCustom.kt_TextFieldCustom_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/view/scroll/DisableScrollNestedScrollView.kt_SELECTED" value="DisableScrollNestedScrollView" />
+    <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/view/tag/TagView.kt_SELECTED" value="TagView" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/view/text_fields/TextFieldCustom.kt_SELECTED" value="TextFieldCustom" />
+    <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/viewpager/DisableScrollViewpager.kt_SELECTED" value="DisableScrollViewpager" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/screens/LoginScreen.kt_SELECTED" value="LoginScreen" />
     <property name="android-custom-viewF:/SETUP/Android/Sdk/sources/android-32/android/view/View.java_SELECTED" value="View" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -114,13 +124,16 @@
       <recent name="F:\MyGithub\android-material-design\material-design-kotlin\app\src\main\res\layout" />
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.material.design.custom.view.scroll" />
       <recent name="com.material.design.base" />
       <recent name="com.material.design.custom.view.text_fields" />
       <recent name="com.material.design.custom.navigation.navigation_view_1" />
       <recent name="com.material.design.ui_desgin_samples.login.samples" />
-      <recent name="com.material.design.sample" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.material.design.custom.view.tag" />
+      <recent name="com.material.design.custom.view" />
+      <recent name="com.material.design.custom.viewpager" />
       <recent name="com.material.design.ui_desgin_samples.register" />
       <recent name="com.material.design.ui_desgin_samples.login.samples" />
     </key>
@@ -230,7 +243,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664877330364</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="kotlin: DisableScrollNestedScrollView">
+      <created>1666234166492</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666234166492</updated>
+    </task>
+    <task id="LOCAL-00007" summary="kotlin: DisableScrollViewpager">
+      <created>1666234187038</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666234187038</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,6 +277,8 @@
     <MESSAGE value="kotlin: init toolbar version 2" />
     <MESSAGE value="kotlin: init textfield version 2" />
     <MESSAGE value="kotlin: init text field version 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="kotlin: init text field version 2" />
+    <MESSAGE value="kotlin: DisableScrollNestedScrollView" />
+    <MESSAGE value="kotlin: DisableScrollViewpager" />
+    <option name="LAST_COMMIT_MESSAGE" value="kotlin: DisableScrollViewpager" />
   </component>
 </project>
