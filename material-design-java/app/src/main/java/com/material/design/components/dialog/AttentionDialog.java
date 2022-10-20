@@ -30,9 +30,10 @@ public class AttentionDialog {
 
     private AlertDialog alertDialog = null;
 
+    @SuppressLint("StaticFieldLeak")
     private static AttentionDialog instance;
 
-    private Context context;
+    private final Context context;
 
     public static AttentionDialog getInstance(Context context) {
         instance = new AttentionDialog(context);

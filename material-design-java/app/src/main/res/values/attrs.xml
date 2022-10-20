@@ -55,4 +55,20 @@
         <attr name="showButtonRight" format="boolean" />
         <attr name="srcRight" format="integer" />
     </declare-styleable>
+
+    <declare-styleable name="SignInScreen">
+
+    </declare-styleable>
+
+    <declare-styleable name="SignUpScreen">
+
+    </declare-styleable>
+
+    <declare-styleable name="SplashScreen">
+
+    </declare-styleable>
+
+    <declare-styleable name="ToolbarVersion2Component">
+
+    </declare-styleable>
 </resources>
