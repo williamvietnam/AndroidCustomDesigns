@@ -10,15 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="714d2e77-d122-4358-927e-659b8aabde16" name="Changes" comment="kotlin: init text field version 2">
-      <change afterPath="$PROJECT_DIR$/../material-design-java/app/src/main/java/com/material/design/base/BaseViewHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../material-design-java/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../material-design-java/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../material-design-java/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../material-design-java/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../material-design-java/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../material-design-java/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../material-design-java/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../material-design-java/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../material-design-java/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../material-design-java/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../material-design-java/.idea/modules/MaterialDesign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../material-design-java/.idea/modules/MaterialDesign.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../material-design-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../material-design-java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../material-design-java/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../material-design-java/local.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +17,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\GiangNB2\.android\avd\2.7_QVGA_slider_API_28.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\GiangNB2\.android\avd\Pixel_5_API_28_1.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -56,8 +47,8 @@
         <option value="resourceFile" />
         <option value="navigationResourceFile" />
         <option value="Kotlin Data Class" />
-        <option value="Kotlin Class" />
         <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -83,6 +74,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2Bs7LGi1jgGb3jElI7BSzMoy5VU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -107,17 +101,20 @@
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/view/TextFieldCustom.kt_SELECTED" value="TextFieldCustom" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/view/TextFieldCustom.kt_TextFieldCustom_DIMENSIONS" value="1080&#10;1920" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/custom/view/text_fields/TextFieldCustom.kt_SELECTED" value="TextFieldCustom" />
+    <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-kotlin/app/src/main/java/com/material/design/screens/LoginScreen.kt_SELECTED" value="LoginScreen" />
     <property name="android-custom-viewF:/SETUP/Android/Sdk/sources/android-32/android/view/View.java_SELECTED" value="View" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../material-design-java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\MyGithub\android-material-design\material-design-kotlin\app\src\main\res\drawable" />
       <recent name="F:\MyGithub\android-material-design\material-design-kotlin\app\src\main\res\layout" />
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.material.design.base" />
       <recent name="com.material.design.custom.view.text_fields" />
       <recent name="com.material.design.custom.navigation.navigation_view_1" />
       <recent name="com.material.design.ui_desgin_samples.login.samples" />
