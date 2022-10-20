@@ -16,4 +16,6 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="froly">#FF738E</color>
+    <color name="cloud_burst">#1D2D49</color>
 </resources>

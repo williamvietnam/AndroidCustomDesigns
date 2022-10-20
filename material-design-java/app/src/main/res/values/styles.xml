@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppIconDialogText">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:lineSpacingExtra">6sp</item>
+    </style>
+
+    <style name="AppIconDialogText.Body" parent="AppIconDialogText">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="AppIconDialogText.Body.Warning" parent="AppIconDialogText.Body">
+        <item name="android:textColor">@color/froly</item>
+    </style>
+
+    <style name="AppIconDialogText.Body.Info" parent="AppIconDialogText.Body">
+        <item name="android:textColor">@color/cloud_burst</item>
+    </style>
+</resources>
