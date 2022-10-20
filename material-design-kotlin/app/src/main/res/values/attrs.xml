@@ -35,4 +35,11 @@
         <attr name="titleTab4" format="integer|string" />
         <attr name="titleTab5" format="integer|string" />
     </declare-styleable>
+
+    <declare-styleable name="LoginScreen">
+        <attr name="title" format="string" />
+        <attr name="hintAccount" format="string|integer" />
+        <attr name="hintPassword" format="string|integer" />
+        <attr name="buttonName" format="integer|string" />
+    </declare-styleable>
 </resources>

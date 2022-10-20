@@ -12,9 +12,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48534635-e659-4b56-af06-f27577cebadf" name="Changes" comment="CircleTextAndImageView">
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-    </list>
+    <list default="true" id="48534635-e659-4b56-af06-f27577cebadf" name="Changes" comment="CircleTextAndImageView" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +50,9 @@
   <component name="KotlinMultiplatform">
     <allAvailableExecutables />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Bs6wHBCGroWAUR7bkSQZqu6YZz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -71,7 +72,7 @@
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-java/app/src/main/java/com/material/design/components/view/ShapeTextAndImageView.java_SELECTED" value="ShapeTextAndImageView" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../android-architectures/Model-View-ViewModel-Java" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
