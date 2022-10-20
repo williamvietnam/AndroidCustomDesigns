@@ -12,13 +12,22 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48534635-e659-4b56-af06-f27577cebadf" name="Changes" comment="CircleTextAndImageView" />
+    <list default="true" id="48534635-e659-4b56-af06-f27577cebadf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/toolbar_v2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/material/design/components/dialog/AttentionDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/components/dialog/AttentionDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/material/design/components/toolbar/ToolbarVersion2Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/components/toolbar/ToolbarVersion2Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/material/design/screens/SignInScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/screens/SignInScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/material/design/screens/SignUpScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/screens/SignUpScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/material/design/screens/SplashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/screens/SplashScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/screen_sign_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/screen_sign_in.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\GiangNB2\.android\avd\2.7_QVGA_slider_API_28.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\GiangNB2\.android\avd\Pixel_5_API_28_1.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -28,6 +37,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
@@ -68,17 +79,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-java/app/src/main/java/com/material/design/components/toolbar/ToolbarVersion2Component.java_SELECTED" value="ToolbarVersion2Component" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-java/app/src/main/java/com/material/design/components/view/CircleTextAndImageView.java_SELECTED" value="CircleTextAndImageView" />
+    <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-java/app/src/main/java/com/material/design/components/view/EditTextComponent.java_SELECTED" value="EditTextComponent" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-java/app/src/main/java/com/material/design/components/view/ShapeTextAndImageView.java_SELECTED" value="ShapeTextAndImageView" />
+    <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-java/app/src/main/java/com/material/design/screens/SignInScreen.java_SELECTED" value="SignInScreen" />
+    <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-java/app/src/main/java/com/material/design/screens/SignUpScreen.java_SELECTED" value="SignUpScreen" />
+    <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-java/app/src/main/java/com/material/design/screens/SplashScreen.java_SELECTED" value="SplashScreen" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../android-architectures/Model-View-ViewModel-Java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/layout" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\MyGithub\android-material-design\material-design-java\app\src\main\res\layout" />
       <recent name="F:\MyGithub\android-material-design\material-design-java\app\src\main\java\com\material\design\utilities" />
       <recent name="F:\MyGithub\android-material-design\material-design-java\app\src\main\java\com\material\design\components\recyclerview" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.material.design.components.dialog" />
     </key>
   </component>
   <component name="RunManager" selected="Android App.sample">
@@ -231,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659423677168</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java: AttentionDialog">
+      <created>1666251029377</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666251029377</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +276,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit java" />
     <MESSAGE value="CircleTextAndImageView" />
-    <option name="LAST_COMMIT_MESSAGE" value="CircleTextAndImageView" />
+    <MESSAGE value="Java: AttentionDialog" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java: AttentionDialog" />
   </component>
 </project>
