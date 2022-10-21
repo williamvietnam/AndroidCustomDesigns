@@ -12,8 +12,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48534635-e659-4b56-af06-f27577cebadf" name="Changes" comment="">
+    <list default="true" id="48534635-e659-4b56-af06-f27577cebadf" name="Changes" comment="java: SwipeDisabledViewPager">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/components/divider/DividerItemDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/components/viewpager/SwipeEnableViewPager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/divider.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,21 +80,26 @@
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-java/app/src/main/java/com/material/design/components/view/CircleTextAndImageView.java_SELECTED" value="CircleTextAndImageView" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-java/app/src/main/java/com/material/design/components/view/EditTextComponent.java_SELECTED" value="EditTextComponent" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-java/app/src/main/java/com/material/design/components/view/ShapeTextAndImageView.java_SELECTED" value="ShapeTextAndImageView" />
+    <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-java/app/src/main/java/com/material/design/components/viewpager/SwipeDisabledViewPager.java_SELECTED" value="SwipeDisabledViewPager" />
+    <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-java/app/src/main/java/com/material/design/components/viewpager/SwipeEnableViewPager.java_SELECTED" value="SwipeEnableViewPager" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-java/app/src/main/java/com/material/design/screens/SignInScreen.java_SELECTED" value="SignInScreen" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-java/app/src/main/java/com/material/design/screens/SignUpScreen.java_SELECTED" value="SignUpScreen" />
     <property name="android-custom-viewF:/MyGithub/android-material-design/material-design-java/app/src/main/java/com/material/design/screens/SplashScreen.java_SELECTED" value="SplashScreen" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/layout" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\MyGithub\android-material-design\material-design-java\app\src\main\res\drawable-v24" />
+      <recent name="F:\MyGithub\android-material-design\material-design-java\app\src\main\java\com\material\design\components\viewpager" />
       <recent name="F:\MyGithub\android-material-design\material-design-java\app\src\main\res\layout" />
       <recent name="F:\MyGithub\android-material-design\material-design-java\app\src\main\java\com\material\design\utilities" />
       <recent name="F:\MyGithub\android-material-design\material-design-java\app\src\main\java\com\material\design\components\recyclerview" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.material.design.components.divider" />
       <recent name="com.material.design.components.dialog" />
     </key>
   </component>
@@ -258,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666251954761</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="java: SwipeDisabledViewPager">
+      <created>1666325660601</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666325660601</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,6 +294,7 @@
     <MESSAGE value="CircleTextAndImageView" />
     <MESSAGE value="Java: AttentionDialog" />
     <MESSAGE value="java: ToolbarVersion2Component" />
-    <option name="LAST_COMMIT_MESSAGE" value="java: ToolbarVersion2Component" />
+    <MESSAGE value="java: SwipeDisabledViewPager" />
+    <option name="LAST_COMMIT_MESSAGE" value="java: SwipeDisabledViewPager" />
   </component>
 </project>
