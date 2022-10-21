@@ -13,14 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48534635-e659-4b56-af06-f27577cebadf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/toolbar_v2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/material/design/components/dialog/AttentionDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/components/dialog/AttentionDialog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/material/design/components/toolbar/ToolbarVersion2Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/components/toolbar/ToolbarVersion2Component.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/material/design/screens/SignInScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/screens/SignInScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/material/design/screens/SignUpScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/screens/SignUpScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/material/design/screens/SplashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/screens/SplashScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/screen_sign_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/screen_sign_in.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666251029377</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="java: ToolbarVersion2Component">
+      <created>1666251954761</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666251954761</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,6 +277,7 @@
     <MESSAGE value="commit java" />
     <MESSAGE value="CircleTextAndImageView" />
     <MESSAGE value="Java: AttentionDialog" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java: AttentionDialog" />
+    <MESSAGE value="java: ToolbarVersion2Component" />
+    <option name="LAST_COMMIT_MESSAGE" value="java: ToolbarVersion2Component" />
   </component>
 </project>
