@@ -12,13 +12,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48534635-e659-4b56-af06-f27577cebadf" name="Changes" comment="java: SwipeDisabledViewPager">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/components/divider/DividerItemDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/material/design/components/viewpager/SwipeEnableViewPager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/divider.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-    </list>
+    <list default="true" id="48534635-e659-4b56-af06-f27577cebadf" name="Changes" comment="java: ItemHotline" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
