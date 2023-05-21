@@ -1,7 +1,10 @@
-package com.material.design.utilities;
+package com.designs.java.utilities;
 
 import timber.log.Timber;
 
+/**
+ * Author: William Nguyen
+ */
 public class AppLogger {
 
     public static void init() {

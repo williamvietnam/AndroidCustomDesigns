@@ -45,7 +45,7 @@
         android:textSize="@dimen/_14ssp"
         android:textStyle="bold" />
 
-    <com.material.design.components.view.EditTextComponent
+    <com.designs.java.components.view.EditTextComponent
         android:id="@+id/inputOne"
         android:layout_width="match_parent"
         android:layout_height="@dimen/_56sdp"
@@ -56,7 +56,7 @@
         app:textTitleEditText="User name"
         app:textTitleStyleEditText="bold" />
 
-    <com.material.design.components.view.EditTextComponent
+    <com.designs.java.components.view.EditTextComponent
         android:id="@+id/inputTwo"
         android:layout_width="match_parent"
         android:layout_height="@dimen/_56sdp"
