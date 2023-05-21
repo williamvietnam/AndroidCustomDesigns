@@ -1,4 +1,4 @@
-package com.material.design.components.divider;
+package com.designs.java.components.divider;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -11,8 +11,11 @@ import androidx.appcompat.widget.LinearLayoutCompat;
 import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.material.design.R;
+import com.designs.java.R;
 
+/**
+ * Author: William Nguyen
+ */
 public class DividerItemDecorator extends RecyclerView.ItemDecoration {
     private final @LinearLayoutCompat.OrientationMode
     int orientation;

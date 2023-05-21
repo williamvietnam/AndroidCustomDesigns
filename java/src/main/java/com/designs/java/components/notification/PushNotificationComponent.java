@@ -1,4 +1,4 @@
-package com.material.design.components.notification;
+package com.designs.java.components.notification;
 
 public class PushNotificationComponent {
 }
