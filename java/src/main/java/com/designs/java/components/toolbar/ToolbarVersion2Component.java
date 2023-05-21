@@ -1,4 +1,4 @@
-package com.material.design.components.toolbar;
+package com.designs.java.components.toolbar;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -9,9 +9,12 @@ import android.widget.FrameLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.material.design.R;
-import com.material.design.databinding.ToolbarV2Binding;
+import com.designs.java.R;
+import com.designs.java.databinding.ToolbarV2Binding;
 
+/**
+ * Author: William Nguyen
+ */
 public class ToolbarVersion2Component extends FrameLayout {
 
     private ToolbarV2Binding binding;

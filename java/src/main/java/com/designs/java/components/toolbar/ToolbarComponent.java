@@ -1,4 +1,7 @@
-package com.material.design.components.toolbar;
+package com.designs.java.components.toolbar;
 
+/**
+ * Author: William Nguyen
+ */
 public class ToolbarComponent {
 }
