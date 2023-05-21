@@ -1,4 +1,4 @@
-package com.material.design.components.view;
+package com.designs.java.components.view;
 
 import android.content.Context;
 import android.content.Intent;
@@ -10,8 +10,11 @@ import android.widget.FrameLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.material.design.databinding.ItemHotlineBinding;
+import com.designs.java.databinding.ItemHotlineBinding;
 
+/**
+ * Author: William Nguyen
+ */
 public class ItemHotline extends FrameLayout {
     private Context context;
 

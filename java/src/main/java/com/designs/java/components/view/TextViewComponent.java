@@ -1,4 +1,7 @@
-package com.material.design.components.view;
+package com.designs.java.components.view;
 
+/**
+ * Author: William Nguyen
+ */
 public class TextViewComponent {
 }

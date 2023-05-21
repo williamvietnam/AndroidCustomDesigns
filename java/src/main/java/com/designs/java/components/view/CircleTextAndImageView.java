@@ -1,4 +1,4 @@
-package com.material.design.components.view;
+package com.designs.java.components.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -13,8 +13,11 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.material.design.R;
+import com.designs.java.R;
 
+/**
+ * Author: William Nguyen
+ */
 public class CircleTextAndImageView extends FrameLayout {
 
     private int backgroundColor;

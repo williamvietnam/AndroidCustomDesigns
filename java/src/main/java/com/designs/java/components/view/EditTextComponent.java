@@ -1,4 +1,4 @@
-package com.material.design.components.view;
+package com.designs.java.components.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -17,11 +17,14 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
 
-import com.material.design.R;
-import com.material.design.databinding.ComponentEditTextViewBinding;
+import com.designs.java.R;
+import com.designs.java.databinding.ComponentEditTextViewBinding;
 
 import java.util.Objects;
 
+/**
+ * Author: William Nguyen
+ */
 public class EditTextComponent extends ConstraintLayout {
 
     private ComponentEditTextViewBinding binding;
