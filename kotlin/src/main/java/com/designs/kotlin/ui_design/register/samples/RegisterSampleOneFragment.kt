@@ -1,4 +1,4 @@
-package com.material.design.ui_design.register.samples
+package com.designs.kotlin.ui_design.register.samples
 
 class RegisterSampleOneFragment {
 }

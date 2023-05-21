@@ -1,9 +1,9 @@
-package com.material.design.ui_design.login.samples
+package com.designs.kotlin.ui_design.login.samples
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import com.material.design.base.BaseFragment
-import com.material.design.databinding.FragmentLoginSampleOneBinding
+import com.designs.kotlin.base.BaseFragment
+import com.designs.kotlin.databinding.FragmentLoginSampleOneBinding
 
 class LoginSampleOneFragment : BaseFragment<FragmentLoginSampleOneBinding>() {
     override fun createViewBinding(

@@ -1,4 +1,4 @@
-package com.material.design.ui_design
+package com.designs.kotlin.ui_design
 
 class HomeFragment {
 }
