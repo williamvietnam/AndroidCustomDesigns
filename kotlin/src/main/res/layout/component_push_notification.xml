@@ -14,7 +14,6 @@
             android:id="@+id/logoNotification"
             android:layout_width="@dimen/_16sdp"
             android:layout_height="@dimen/_16sdp"
-            android:contentDescription="@string/logo_app"
             android:src="@mipmap/ic_launcher" />
 
         <TextView
@@ -33,9 +32,8 @@
             android:id="@+id/expandNotification"
             android:layout_width="@dimen/_14sdp"
             android:layout_height="@dimen/_14sdp"
-            android:contentDescription="@string/expand"
-            android:src="@drawable/ic_expand_more"
-            app:tint="@color/primary" />
+            android:src="@drawable/ic_login"
+            app:tint="@android:color/primary_text_light_nodisable" />
     </LinearLayout>
 
 </RelativeLayout>

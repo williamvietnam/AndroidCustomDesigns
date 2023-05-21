@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/loginMainFragment"
-        android:name="com.material.design.ui_design.login.LoginMainFragment"
+        android:name="com.designs.kotlin.ui_design.login.LoginMainFragment"
         android:label="loginMainFragment"
         tools:layout="@layout/fragment_login_main">
 
@@ -22,13 +22,13 @@
 
     <fragment
         android:id="@+id/loginSampleOneFragment"
-        android:name="com.material.design.ui_design.login.samples.LoginSampleOneFragment"
+        android:name="com.designs.kotlin.ui_design.login.samples.LoginSampleOneFragment"
         android:label="loginSampleOneFragment"
         tools:layout="@layout/fragment_login_sample_one" />
 
     <fragment
         android:id="@+id/loginSampleTwoFragment"
-        android:name="com.material.design.ui_design.login.samples.LoginSampleTwoFragment"
+        android:name="com.designs.kotlin.ui_design.login.samples.LoginSampleTwoFragment"
         android:label="loginSampleTwoFragment"
         tools:layout="@layout/fragment_login_sample_two" />
 </navigation>
