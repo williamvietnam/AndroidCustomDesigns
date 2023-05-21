@@ -1,9 +1,12 @@
-package com.material.design.components.dialog;
+package com.designs.java.components.dialog;
 
 import android.content.Context;
 
-import com.material.design.databinding.ComponentDialogOptionsBinding;
+import com.designs.java.databinding.ComponentDialogOptionsBinding;
 
+/**
+ * Author: William Nguyen
+ */
 public class OptionsDialog {
 
     private ComponentDialogOptionsBinding binding;

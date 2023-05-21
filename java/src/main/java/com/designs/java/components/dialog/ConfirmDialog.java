@@ -1,4 +1,4 @@
-package com.material.design.components.dialog;
+package com.designs.java.components.dialog;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -12,8 +12,11 @@ import android.view.Window;
 import androidx.annotation.Nullable;
 import androidx.annotation.StringRes;
 
-import com.material.design.databinding.ComponentDialogConfirmBinding;
+import com.designs.java.databinding.ComponentDialogConfirmBinding;
 
+/**
+ * Author: William Nguyen
+ */
 public class ConfirmDialog {
 
     private ComponentDialogConfirmBinding binding;

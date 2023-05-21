@@ -1,4 +1,4 @@
-package com.material.design.components.dialog;
+package com.designs.java.components.dialog;
 
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;
@@ -18,10 +18,13 @@ import androidx.annotation.StringRes;
 import androidx.annotation.StyleRes;
 import androidx.core.widget.TextViewCompat;
 
-import com.material.design.R;
-import com.material.design.databinding.DialogAppAttentionBinding;
+import com.designs.java.R;
+import com.designs.java.databinding.DialogAppAttentionBinding;
 import com.material.design.utilities.AppLogger;
 
+/**
+ * Author: William Nguyen
+ */
 public class AttentionDialog {
 
     public static final String TAG = AttentionDialog.class.getCanonicalName();

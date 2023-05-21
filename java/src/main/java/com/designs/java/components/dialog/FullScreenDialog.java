@@ -1,4 +1,4 @@
-package com.material.design.components.dialog;
+package com.designs.java.components.dialog;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -11,8 +11,11 @@ import android.view.Window;
 import androidx.annotation.Nullable;
 import androidx.annotation.StringRes;
 
-import com.material.design.databinding.ComponentDialogFullScreenBinding;
+import com.designs.java.databinding.ComponentDialogFullScreenBinding;
 
+/**
+ * Author: William Nguyen
+ */
 public class FullScreenDialog {
 
     private ComponentDialogFullScreenBinding binding;
