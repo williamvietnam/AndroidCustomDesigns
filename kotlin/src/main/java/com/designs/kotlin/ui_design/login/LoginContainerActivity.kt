@@ -1,8 +1,8 @@
-package com.material.design.ui_design.login
+package com.designs.kotlin.ui_design.login
 
 import android.util.Log
-import com.material.design.base.BaseActivity
-import com.material.design.databinding.ActivityLoginContainerBinding
+import com.designs.kotlin.base.BaseActivity
+import com.designs.kotlin.databinding.ActivityLoginContainerBinding
 
 class LoginContainerActivity : BaseActivity<ActivityLoginContainerBinding>() {
 

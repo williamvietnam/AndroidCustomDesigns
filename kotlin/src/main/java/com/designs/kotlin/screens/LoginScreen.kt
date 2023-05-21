@@ -1,4 +1,4 @@
-package com.material.design.screens
+package com.designs.kotlin.screens
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -6,8 +6,8 @@ import android.content.res.TypedArray
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.LinearLayout
-import com.material.design.R
-import com.material.design.databinding.LoginViewBinding
+import com.designs.kotlin.R
+import com.designs.kotlin.databinding.LoginViewBinding
 
 class LoginScreen : LinearLayout {
     private lateinit var binding: LoginViewBinding

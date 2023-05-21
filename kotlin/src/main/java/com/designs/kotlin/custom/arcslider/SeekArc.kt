@@ -1,4 +1,4 @@
-package com.material.design.custom.arcslider
+package com.designs.kotlin.custom.arcslider
 
 import android.content.Context
 import android.graphics.Canvas
@@ -9,7 +9,7 @@ import android.util.AttributeSet
 import android.util.Log
 import android.view.MotionEvent
 import android.view.View
-import com.material.design.R
+import com.designs.kotlin.R
 
 class SeekArc : View {
     // The initial rotational offset -90 means we start at 12 o'clock

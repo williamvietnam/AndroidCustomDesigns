@@ -1,4 +1,4 @@
-package com.material.design.screens
+package com.designs.kotlin.screens
 
 class RegisterScreen {
 }

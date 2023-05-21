@@ -1,10 +1,10 @@
-package com.material.design.ui_design.login
+package com.designs.kotlin.ui_design.login
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.material.design.data.models.LoginModel
-import com.material.design.databinding.ItemLoginSampleBinding
+import com.designs.kotlin.data.models.LoginModel
+import com.designs.kotlin.databinding.ItemLoginSampleBinding
 
 class LoginContainerAdapter(
     private val loginModelList: MutableList<LoginModel>?,

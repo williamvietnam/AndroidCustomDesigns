@@ -1,4 +1,4 @@
-package com.material.design.custom.toolbar
+package com.designs.kotlin.custom.toolbar
 
 import android.content.Context
 import android.content.res.TypedArray
@@ -7,8 +7,8 @@ import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.FrameLayout
 import androidx.annotation.DrawableRes
-import com.material.design.R
-import com.material.design.databinding.ComponentToolbarViewBinding
+import com.designs.kotlin.R
+import com.designs.kotlin.databinding.ComponentToolbarViewBinding
 import com.squareup.picasso.Picasso
 
 class ToolbarCustom : FrameLayout {

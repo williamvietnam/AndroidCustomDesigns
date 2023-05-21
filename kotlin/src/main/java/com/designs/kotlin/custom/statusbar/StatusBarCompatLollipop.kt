@@ -1,4 +1,4 @@
-package com.material.design.custom.statusbar
+package com.designs.kotlin.custom.statusbar
 
 import android.animation.ValueAnimator
 import android.app.Activity

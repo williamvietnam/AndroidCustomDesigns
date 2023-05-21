@@ -1,4 +1,4 @@
-package com.material.design.custom.view
+package com.designs.kotlin.custom.view
 
 class CustomTextView {
 }

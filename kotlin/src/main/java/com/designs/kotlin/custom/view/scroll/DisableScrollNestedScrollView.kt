@@ -1,4 +1,4 @@
-package com.material.design.custom.view.scroll
+package com.designs.kotlin.custom.view.scroll
 
 import android.annotation.SuppressLint
 import android.content.Context

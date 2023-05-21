@@ -1,12 +1,12 @@
-package com.material.design.ui_design.login
+package com.designs.kotlin.ui_design.login
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.material.design.base.BaseFragment
-import com.material.design.data.models.LoginModel
-import com.material.design.databinding.FragmentLoginMainBinding
+import com.designs.kotlin.base.BaseFragment
+import com.designs.kotlin.data.models.LoginModel
+import com.designs.kotlin.databinding.FragmentLoginMainBinding
 
 class LoginMainFragment : BaseFragment<FragmentLoginMainBinding>(), LoginContainerAdapter.CallBack {
     private lateinit var loginContainerAdapter: LoginContainerAdapter

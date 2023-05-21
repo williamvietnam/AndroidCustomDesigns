@@ -1,4 +1,4 @@
-package com.material.design.custom.view.tag
+package com.designs.kotlin.custom.view.tag
 
 import android.content.Context
 import android.util.AttributeSet
@@ -8,8 +8,8 @@ import android.view.ViewGroup
 import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.databinding.DataBindingUtil
-import com.material.design.R
-import com.material.design.databinding.ItemTagBinding
+import com.designs.kotlin.R
+import com.designs.kotlin.databinding.ItemTagBinding
 
 class TagView @JvmOverloads constructor(
     context: Context,

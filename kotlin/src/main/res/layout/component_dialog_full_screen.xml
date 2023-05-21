@@ -16,8 +16,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="@dimen/_6sdp"
         android:layout_marginTop="@dimen/_3sdp"
-        android:contentDescription="@string/cancel"
-        android:src="@drawable/ic_delete" />
+        tools:ignore="ContentDescription" />
 
     <TextView
         android:id="@+id/textHeadline"
@@ -40,39 +39,38 @@
         android:layout_alignParentEnd="true"
         android:layout_marginTop="@dimen/_2sdp"
         android:layout_marginEnd="@dimen/_16sdp"
-        android:text="@string/save"
-        android:textColor="@color/primary"
+        android:text="Save"
+        android:textColor="@android:color/primary_text_light_nodisable"
         android:textSize="@dimen/_14ssp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
 
-    <com.material.design.components.view.EditTextComponent
-        android:id="@+id/inputOne"
-        android:layout_width="match_parent"
-        android:layout_height="@dimen/_56sdp"
-        android:layout_below="@id/cancelClick"
-        android:layout_marginHorizontal="@dimen/_8sdp"
-        android:layout_marginTop="@dimen/_16sdp"
-        app:textHintEditText="Typing user name"
-        app:textTitleEditText="User name"
-        app:textTitleStyleEditText="bold" />
+<!--    <com.designs.kotlin.custom.view.text_fields.TextFieldCustom-->
+<!--        android:id="@+id/inputOne"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="@dimen/_56sdp"-->
+<!--        android:layout_below="@id/cancelClick"-->
+<!--        android:layout_marginHorizontal="@dimen/_8sdp"-->
+<!--        android:layout_marginTop="@dimen/_16sdp"-->
+<!--        app:textHintEditText="Typing user name"-->
+<!--        app:textTitleEditText="User name"-->
+<!--        app:textTitleStyleEditText="bold" />-->
 
-    <com.material.design.components.view.EditTextComponent
-        android:id="@+id/inputTwo"
-        android:layout_width="match_parent"
-        android:layout_height="@dimen/_56sdp"
-        android:layout_below="@id/inputOne"
-        android:layout_marginHorizontal="@dimen/_8sdp"
-        app:textHintEditText="Typing address"
-        app:textTitleEditText="Address"
-        app:textTitleStyleEditText="bold" />
+<!--    <com.designs.kotlin.custom.view.text_fields.TextFieldCustom-->
+<!--        android:id="@+id/inputTwo"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="@dimen/_56sdp"-->
+<!--        android:layout_below="@id/inputOne"-->
+<!--        android:layout_marginHorizontal="@dimen/_8sdp"-->
+<!--        app:textHintEditText="Typing address"-->
+<!--        app:textTitleEditText="Address"-->
+<!--        app:textTitleStyleEditText="bold" />-->
 
-    <View
-        android:layout_width="match_parent"
-        android:layout_height="1dp"
-        android:layout_below="@id/inputTwo"
-        android:layout_marginHorizontal="@dimen/_8sdp"
-        android:layout_marginTop="@dimen/_8sdp"
-        android:background="@color/secondBackground" />
-
-
+<!--    <View-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="1dp"-->
+<!--        android:layout_below="@id/inputTwo"-->
+<!--        android:layout_marginHorizontal="@dimen/_8sdp"-->
+<!--        android:layout_marginTop="@dimen/_8sdp"-->
+<!--        android:background="@android:color/white" />-->
 </RelativeLayout>

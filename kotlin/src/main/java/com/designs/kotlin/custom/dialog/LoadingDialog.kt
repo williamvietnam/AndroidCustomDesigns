@@ -1,4 +1,4 @@
-package com.material.design.custom.dialog
+package com.designs.kotlin.custom.dialog
 
 import android.app.Activity
 import android.app.AlertDialog
@@ -6,7 +6,7 @@ import android.content.Context
 import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
 import android.view.LayoutInflater
-import com.material.design.R
+import com.designs.kotlin.R
 import java.lang.ref.WeakReference
 
 class LoadingDialog private constructor(private val context: Context?) {
@@ -52,16 +52,14 @@ class LoadingDialog private constructor(private val context: Context?) {
 
     init {
         if (context != null && !isShow) {
-            val dialogBuilder =
-                AlertDialog.Builder(context)
+            val dialogBuilder = AlertDialog.Builder(context)
             val li = LayoutInflater.from(context)
             val dialogView = li.inflate(R.layout.layout_loading, null)
             dialogBuilder.setView(dialogView)
             dialogBuilder.setCancelable(false)
             dialog = dialogBuilder.create()
             if (dialog.window != null) {
-                dialog.window!!
-                    .setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT))
+                dialog.window!!.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT))
             }
             dialog.setCancelable(false)
             dialog.setCanceledOnTouchOutside(false)

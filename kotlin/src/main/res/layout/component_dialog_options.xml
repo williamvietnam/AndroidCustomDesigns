@@ -10,12 +10,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
-    <ScrollView
-        android:background="@drawable/background_dialog_option"
-        android:id="@+id/listOptions"
-        android:layout_width="match_parent"
-        android:layout_height="@dimen/_56sdp"
-        android:scrollbars="none"></ScrollView>
+<!--    <ScrollView-->
+<!--        android:background="@drawable/background_dialog_option"-->
+<!--        android:id="@+id/listOptions"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="@dimen/_56sdp"-->
+<!--        android:scrollbars="none"></ScrollView>-->
 
     <LinearLayout
         android:layout_width="match_parent"

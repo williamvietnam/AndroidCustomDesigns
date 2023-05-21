@@ -37,10 +37,11 @@
         android:layout_marginTop="@dimen/_8sdp"
         android:layout_marginEnd="@dimen/_22sdp"
         android:layout_toStartOf="@id/rightClick"
-        android:text="@string/cancel"
-        android:textColor="@color/primary"
+        android:text="Cancel"
+        android:textColor="@android:color/primary_text_light"
         android:textSize="@dimen/_12ssp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
 
     <TextView
         android:id="@+id/rightClick"
@@ -50,8 +51,9 @@
         android:layout_alignParentEnd="true"
         android:layout_marginTop="@dimen/_8sdp"
         android:layout_marginEnd="@dimen/_16sdp"
-        android:text="@string/accept"
-        android:textColor="@color/primary"
+        android:text="Accept"
+        android:textColor="@android:color/primary_text_light"
         android:textSize="@dimen/_12ssp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
 </RelativeLayout>

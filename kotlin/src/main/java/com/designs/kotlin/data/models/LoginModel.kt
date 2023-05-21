@@ -1,3 +1,3 @@
-package com.material.design.data.models
+package com.designs.kotlin.data.models
 
 data class LoginModel(val itemId: Int, val itemContent: String)
