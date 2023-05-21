@@ -1,4 +1,4 @@
-package com.material.design.custom.dialog
+package com.designs.kotlin.custom.dialog
 
 import android.annotation.SuppressLint
 import android.app.Dialog
@@ -12,7 +12,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.annotation.StringRes
 import androidx.appcompat.widget.AppCompatButton
-import com.material.design.R
+import com.designs.kotlin.R
 
 class CommonAlertDialog constructor(context: Context) : Dialog(context) {
 
@@ -166,6 +166,7 @@ class CommonAlertDialog constructor(context: Context) : Dialog(context) {
 
     companion object {
         private const val TYPE_DEFAULT = -1
+
         @SuppressLint("StaticFieldLeak")
         var instance: CommonAlertDialog? = null
         fun getInstanceCommonAlertdialog(
