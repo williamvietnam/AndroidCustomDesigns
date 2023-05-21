@@ -20,7 +20,7 @@ import androidx.core.widget.TextViewCompat;
 
 import com.designs.java.R;
 import com.designs.java.databinding.DialogAppAttentionBinding;
-import com.material.design.utilities.AppLogger;
+import com.designs.java.utilities.AppLogger;
 
 /**
  * Author: William Nguyen
