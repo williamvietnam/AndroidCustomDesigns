@@ -1,4 +1,4 @@
-package com.material.design.screens;
+package com.designs.java.screens;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -8,8 +8,8 @@ import android.widget.LinearLayout;
 
 import androidx.annotation.Nullable;
 
-import com.material.design.R;
-import com.material.design.databinding.ScreenSignUpBinding;
+import com.designs.java.R;
+import com.designs.java.databinding.ScreenSignUpBinding;
 
 public class SignUpScreen extends LinearLayout {
     private ScreenSignUpBinding binding;
