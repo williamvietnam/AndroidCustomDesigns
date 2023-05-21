@@ -1,4 +1,4 @@
-package com.material.design.custom.statusbar
+package com.designs.kotlin.custom.statusbar
 
 import android.app.Activity
 import android.content.Context
