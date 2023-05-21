@@ -1,11 +1,11 @@
-package com.material.design.base
+package com.designs.kotlin.base
 
 import android.app.AlertDialog
 import android.content.Context
 import android.content.DialogInterface
 import android.widget.TextView
 import androidx.annotation.StringRes
-import com.material.design.R
+import com.designs.kotlin.R
 
 class BaseDialog {
     private lateinit var dialog: AlertDialog

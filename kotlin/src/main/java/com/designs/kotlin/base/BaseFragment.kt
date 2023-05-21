@@ -1,4 +1,4 @@
-package com.material.design.base
+package com.designs.kotlin.base
 
 import android.os.Bundle
 import android.view.LayoutInflater
