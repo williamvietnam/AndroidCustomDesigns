@@ -1,4 +1,4 @@
-package com.material.design.components.recyclerview;
+package com.designs.java.components.recyclerview;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.GridLayoutManager;
@@ -6,8 +6,11 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.recyclerview.widget.StaggeredGridLayoutManager;
 
-import com.material.design.utilities.AppLogger;
+import com.designs.java.utilities.AppLogger;
 
+/**
+ * Author: William Nguyen
+ */
 public abstract class EndlessRecyclerViewScrollListener extends RecyclerView.OnScrollListener {
     public static final String TAG = EndlessRecyclerViewScrollListener.class.getCanonicalName();
 

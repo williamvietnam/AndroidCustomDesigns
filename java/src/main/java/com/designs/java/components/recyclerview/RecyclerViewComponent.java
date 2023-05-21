@@ -1,4 +1,7 @@
-package com.material.design.components.recyclerview;
+package com.designs.java.components.recyclerview;
 
+/**
+ * Author: William Nguyen
+ */
 public class RecyclerViewComponent{
 }

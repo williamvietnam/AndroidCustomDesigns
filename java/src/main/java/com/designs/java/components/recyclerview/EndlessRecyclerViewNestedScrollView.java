@@ -1,4 +1,4 @@
-package com.material.design.components.recyclerview;
+package com.designs.java.components.recyclerview;
 
 import android.graphics.Rect;
 
@@ -9,6 +9,9 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.recyclerview.widget.StaggeredGridLayoutManager;
 
+/**
+ * Author: William Nguyen
+ */
 public abstract class EndlessRecyclerViewNestedScrollView implements NestedScrollView.OnScrollChangeListener {
     /**
      * The minimum amount of items to have below your current scroll position
@@ -20,7 +23,7 @@ public abstract class EndlessRecyclerViewNestedScrollView implements NestedScrol
      */
     private int currentPage = 0;
     /**
-     *  True if we are still waiting for the last set of data to load.
+     * True if we are still waiting for the last set of data to load.
      */
     private boolean loading = true;
     private boolean hasMoreData = true;
