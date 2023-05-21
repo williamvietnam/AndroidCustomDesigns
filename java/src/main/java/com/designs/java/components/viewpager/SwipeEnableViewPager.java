@@ -1,4 +1,4 @@
-package com.material.design.components.viewpager;
+package com.designs.java.components.viewpager;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -7,6 +7,9 @@ import android.view.MotionEvent;
 
 import androidx.viewpager.widget.ViewPager;
 
+/**
+ * Author: William Nguyen
+ */
 public class SwipeEnableViewPager extends ViewPager {
 
     private boolean isSwipeEnable = true;
