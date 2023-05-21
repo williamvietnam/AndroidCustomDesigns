@@ -1,4 +1,4 @@
-package com.material.design.custom.navigation
+package com.designs.kotlin.custom.navigation
 
 import android.content.Context
 import android.content.res.TypedArray
@@ -9,8 +9,8 @@ import android.view.View
 import android.widget.LinearLayout
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
-import com.material.design.R
-import com.material.design.databinding.BottomNavigationView1Binding
+import com.designs.kotlin.R
+import com.designs.kotlin.databinding.BottomNavigationView1Binding
 
 class BottomNavigationView1 : LinearLayout {
 
