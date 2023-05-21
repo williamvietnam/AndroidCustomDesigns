@@ -1,12 +1,12 @@
-package com.material.design.custom.toolbar
+package com.designs.kotlin.custom.toolbar
 
 import android.content.Context
 import android.content.res.TypedArray
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.LinearLayout
-import com.material.design.R
-import com.material.design.databinding.ToolBar2Binding
+import com.designs.kotlin.R
+import com.designs.kotlin.databinding.ToolBar2Binding
 
 class Toolbar2 : LinearLayout {
     private lateinit var binding: ToolBar2Binding

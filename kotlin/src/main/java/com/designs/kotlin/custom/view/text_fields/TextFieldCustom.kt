@@ -1,4 +1,4 @@
-package com.material.design.custom.view.text_fields
+package com.designs.kotlin.custom.view.text_fields
 
 import android.content.Context
 import android.content.res.TypedArray
@@ -10,8 +10,8 @@ import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.view.inputmethod.EditorInfo
 import android.widget.LinearLayout
-import com.material.design.R
-import com.material.design.databinding.ComponentTextFieldViewBinding
+import com.designs.kotlin.R
+import com.designs.kotlin.databinding.ComponentTextFieldViewBinding
 
 class TextFieldCustom : LinearLayout {
     private lateinit var binding: ComponentTextFieldViewBinding

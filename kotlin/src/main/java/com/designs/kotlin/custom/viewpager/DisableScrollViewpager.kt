@@ -1,4 +1,4 @@
-package com.material.design.custom.viewpager
+package com.designs.kotlin.custom.viewpager
 
 import android.content.Context
 import android.util.AttributeSet
